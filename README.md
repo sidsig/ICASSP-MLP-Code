@@ -1,9 +1,11 @@
 This repository containts code for recreating the results in the paper "Improved Music Feature Learning with Deep Neural Networks". All the code is in Python. 
 Some of the dependencies are mentioned below:
+```
 PyTables: For storing the extracted features
 Theano: For the neural network training
 Sklearn: For the pre-processing module and random forest classification
 Numpy, Scipy
+```
 
 The code assumes a directory structure as follows:
 
